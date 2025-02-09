@@ -1,0 +1,301 @@
+volcano_number,volcano_name,primary_volcano_type,last_eruption_year,country,region,subregion,latitude,longitude,elevation,RowNum
+283001,Abu,Shield(s),-6850,Japan,Japan/ Taiwan/ Marianas,Honshu,34.5,131.6,641,0
+342080,Acatenango,Stratovolcano(es),1972,Guatemala,México and Central America,Guatemala,14.501,-90.876,3976,1
+213004,Acigol-Nevsehir,Caldera,-2080,Turkey,Mediterranean and Western Asia,Turkey,38.537,34.621,1683,2
+321040,Adams,Stratovolcano,950,United States,Canada and Western USA,USA (Washington),46.206,-121.49,3742,3
+283170,Adatarayama,Stratovolcano(es),1996,Japan,Japan/ Taiwan/ Marianas,Honshu,37.647,140.281,1728,4
+284160,Agrigan,Stratovolcano,1917,United States,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,18.77,145.67,965,5
+382090,Agua de Pau,Stratovolcano,1564,Portugal,Atlantic Ocean,Azores,37.77,-25.47,947,6
+358062,Aguilera,Stratovolcano,-1250,Chile,South America,Southern Chile and Argentina,-50.33,-73.75,2546,7
+264020,Agung,Stratovolcano,2019,Indonesia,Indonesia,Lesser Sunda Islands,-8.343,115.508,2997,8
+284141,Ahyi,Submarine,2014,United States,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,20.42,145.03,-75,9
+282080,Aira,Caldera,2020,Japan,Japan/ Taiwan/ Marianas,Ryukyu Islands and Kyushu,31.593,130.657,1117,10
+300125,Akademia Nauk,Stratovolcano(es),1996,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.98,159.45,1180,11
+285070,Akan,Caldera,2008,Japan,Japan/ Taiwan/ Marianas,Hokkaido,43.384,144.013,1499,12
+283230,Akita-Komagatake,Stratovolcano(es),1971,Japan,Japan/ Taiwan/ Marianas,Honshu,39.761,140.799,1637,13
+283260,Akita-Yakeyama,Stratovolcano,1997,Japan,Japan/ Taiwan/ Marianas,Honshu,39.964,140.757,1366,14
+311320,Akutan,Stratovolcano,1992,United States,Alaska,Aleutian Islands,54.134,-165.986,1303,15
+290390,Alaid,Stratovolcano,2018,Russia,Kuril Islands,Kuril Islands,50.861,155.565,2285,16
+221112,Alayta,Shield,1915,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.888,40.573,1496,17
+353040,Alcedo,Shield,1993,Ecuador,South America,Galapagos Islands,-0.43,-91.12,1130,18
+352031,Aliso,Stratovolcano,-2450,Ecuador,South America,Ecuador,-0.53,-78.0,4267,19
+342040,Almolonga,Stratovolcano,1818,Guatemala,México and Central America,Guatemala,14.797,-91.519,3173,20
+300450,Alney-Chashakondzha,Stratovolcano,1600,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.656,159.647,2570,21
+221060,Alu-Dalafilla,Fissure vent(s),2008,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.793,40.553,578,22
+221270,Alutu,Stratovolcano,-50,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,7.77,38.78,2335,23
+311390,Amak,Stratovolcano,1796,United States,Alaska,Aleutian Islands,55.424,-163.149,488,24
+257030,Ambae,Shield,2018,Vanuatu,Melanesia and Australia,Vanuatu,-15.389,167.835,1496,25
+266020,Ambang,Complex,2005,Indonesia,Indonesia,Sulawesi,0.75,124.42,1795,26
+254020,Ambitle,Stratovolcano,-350,Papua New Guinea,Melanesia and Australia,New Ireland,-4.08,153.65,450,27
+257040,Ambrym,Pyroclastic shield,2018,Vanuatu,Melanesia and Australia,Vanuatu,-16.25,168.12,1334,28
+311190,Amukta,Stratovolcano,1997,United States,Alaska,Aleutian Islands,52.5,-171.252,1066,29
+284200,Anatahan,Stratovolcano,2008,United States,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,16.35,145.67,790,30
+354004,Andahua-Orcopampa,Pyroclastic cone(s),1490,Peru,South America,Peru,-15.42,-72.33,4713,31
+312090,Aniakchak,Caldera,1931,United States,Alaska,Alaska Peninsula,56.88,-158.17,1341,32
+357153,Antillanca Volcanic Complex,Stratovolcano(es),-230,Chile,South America,Central Chile and Argentina,-40.783,-72.15,1979,33
+352030,Antisana,Stratovolcano,1802,Ecuador,South America,Ecuador,-0.481,-78.141,5753,34
+357080,Antuco,Stratovolcano,1869,Chile,South America,Central Chile and Argentina,-37.406,-71.349,2979,35
+284060,Aogashima,Stratovolcano,1785,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,32.458,139.759,423,36
+358024,Apagado,Pyroclastic cone,-590,Chile,South America,Southern Chile and Argentina,-41.88,-72.58,1210,37
+344091,Apoyeque,Pyroclastic shield,-50,Nicaragua,México and Central America,Nicaragua,12.242,-86.342,518,38
+213040,Ararat,Stratovolcano,1840,Turkey,Mediterranean and Western Asia,Turkey,39.7,44.3,5165,39
+221126,Ardoukoba,Fissure vent(s),1978,Djibouti,Africa and Red Sea,Africa (northeastern) and Red Sea,11.58,42.47,298,40
+345033,Arenal,Stratovolcano,2010,Costa Rica,México and Central America,Costa Rica,10.463,-84.703,1670,41
+231090,Arhab/ Harra of,Volcanic field,500,Yemen,Middle East and Indian Ocean,Middle East (southern),15.63,44.08,3100,42
+263290,Arjuno-Welirang,Stratovolcano,1952,Indonesia,Indonesia,Java,-7.733,112.575,3339,43
+305011,Arxan-Chaihe,Pyroclastic cone(s),0,China,Kamchatka and Mainland Asia,China (eastern),47.45,120.8,1677,44
+283110,Asamayama,Complex,2019,Japan,Japan/ Taiwan/ Marianas,Honshu,36.406,138.523,2568,45
+385050,Ascension,Stratovolcano,1508,United Kingdom,Atlantic Ocean,Atlantic Ocean (central),-7.95,-14.37,858,46
+373060,Askja,Stratovolcano,1961,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),65.033,-16.783,1080,47
+282110,Asosan,Caldera,2020,Japan,Japan/ Taiwan/ Marianas,Ryukyu Islands and Kyushu,32.884,131.104,1592,48
+284150,Asuncion,Stratovolcano,1906,United States,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,19.671,145.406,857,49
+282070,Ata,Caldera(s),885,Japan,Japan/ Taiwan/ Marianas,Ryukyu Islands and Kyushu,31.22,130.57,924,50
+352021,Atacazo,Stratovolcano,-320,Ecuador,South America,Ecuador,-0.353,-78.617,4463,51
+311160,Atka,Stratovolcano(es),1812,United States,Alaska,Aleutian Islands,52.331,-174.139,1448,52
+241020,Auckland Volcanic Field,Volcanic field,1350,New Zealand,New Zealand to Fiji,New Zealand,-36.9,174.87,260,53
+313010,Augustine,Lava dome(s),2006,United States,Alaska,Alaska (southwestern),59.363,-153.43,1252,54
+300100,Avachinsky,Stratovolcano,2001,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.256,158.836,2717,55
+331021,Axial Seamount,Submarine,2015,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),45.95,-130.0,-1410,56
+353060,Azul/ Cerro,Shield,2008,Ecuador,South America,Galapagos Islands,-0.92,-91.408,1640,57
+357060,Azul/ Cerro,Stratovolcano,1967,Chile,South America,Central Chile and Argentina,-35.653,-70.761,3788,58
+283180,Azumayama,Stratovolcano(es),1977,Japan,Japan/ Taiwan/ Marianas,Honshu,37.735,140.244,1949,59
+274030,Babuyan Claro,Stratovolcano(es),1924,Philippines,Philippines and SE Asia,North of Luzon,19.523,121.94,1080,60
+322090,Bachelor,Stratovolcano,-5800,United States,Canada and Western USA,USA (Oregon),43.979,-121.688,2763,61
+255020,Bagana,Lava cone,2020,Papua New Guinea,Melanesia and Australia,Bougainville and Solomon Islands,-6.137,155.196,1855,62
+300123,Bakening,Stratovolcano,-550,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.905,158.07,2278,63
+321010,Baker,Stratovolcano(es),1880,United States,Canada and Western USA,USA (Washington),48.777,-121.813,3285,64
+265090,Banda Api,Caldera,1988,Indonesia,Indonesia,Banda Sea,-4.523,129.881,596,65
+283160,Bandaisan,Stratovolcano,1888,Japan,Japan/ Taiwan/ Marianas,Honshu,37.601,140.072,1816,66
+341020,Barcena,Pyroclastic cone(s),1953,Mexico,México and Central America,Mexico,19.3,-110.82,332,67
+373030,Bardarbunga,Stratovolcano,2015,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),64.633,-17.516,2000,68
+300084,Barkhatnaya Sopka,Lava dome(s),-3550,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.802,158.24,874,69
+222030,Barrier/ The,Shield,1921,Kenya,Africa and Red Sea,Africa (eastern),2.32,36.57,1032,70
+345050,Barva,Complex,-6050,Costa Rica,México and Central America,Costa Rica,10.135,-84.1,2906,71
+264010,Batur,Caldera,2000,Indonesia,Indonesia,Lesser Sunda Islands,-8.242,115.375,1717,72
+225060,Bayuda Volcanic Field,Pyroclastic cone(s),850,Sudan,Africa and Red Sea,Africa (northern),18.33,32.75,670,73
+322060,Belknap,Shield(s),480,United States,Canada and Western USA,USA (Oregon),44.285,-121.841,2095,74
+390022,Berlin,Shield(s),-8350,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-76.05,-136.0,3478,75
+300250,Bezymianny,Stratovolcano,2020,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.972,160.595,2882,76
+272080,Biliran,Compound,1939,Philippines,Philippines and SE Asia,Central Philippines,11.523,124.535,1301,77
+255011,Billy Mitchell,Pyroclastic shield,1580,Papua New Guinea,Melanesia and Australia,Bougainville and Solomon Islands,-6.092,155.225,1544,78
+324010,Black Butte Crater Lava Field,Shield,-8400,United States,Canada and Western USA,USA (Idaho),43.183,-114.352,1478,79
+327050,Black Rock Desert,Volcanic field,1290,United States,Canada and Western USA,USA (Utah),38.97,-112.5,1800,80
+355210,Blanco/ Cerro,Caldera,-2300,Argentina,South America,Northern Chile/ Bolivia and Argentina,-26.789,-67.765,4670,81
+311300,Bogoslof,Submarine,2017,United States,Alaska,Aleutian Islands,53.93,-168.03,150,82
+300150,Bolshoi Semiachik,Stratovolcano(es),-4450,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.32,160.02,1720,83
+300360,Bolshoi-Kekuknaysky,Shield(s),-5310,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.483,157.917,1401,84
+386020,Bouvet,Shield,-50,Norway,Atlantic Ocean,Atlantic Ocean (southern),-54.408,3.351,741,85
+351012,Bravo/ Cerro,Stratovolcano,1720,Colombia,South America,Colombia,5.091,-75.293,3985,86
+371040,Brennisteinsfjoll,Crater rows,1341,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),63.933,-21.783,610,87
+390080,Bristol Island,Stratovolcano,2016,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-59.017,-26.533,1100,88
+390010,Buckle Island,Stratovolcano,1899,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-66.78,163.25,1239,89
+273010,Bulusan,Stratovolcano(es),2017,Philippines,Philippines and SE Asia,Luzon,12.769,124.056,1535,90
+272050,Cabalían,Stratovolcano,1820,Philippines,Philippines and SE Asia,Central Philippines,10.285,125.218,912,91
+357112,Caburgua-Huelemolle,Pyroclastic cone(s),-5050,Chile,South America,Central Chile and Argentina,-39.25,-71.75,1652,92
+273090,Cagua,Stratovolcano,1860,Philippines,Philippines and SE Asia,Luzon,18.222,122.123,1133,93
+210040,Calatrava Volcanic Field,Pyroclastic cone(s),-3600,Spain,Mediterranean and Western Asia,Western Europe,38.87,-4.02,1117,94
+358020,Calbuco,Stratovolcano,2015,Chile,South America,Southern Chile and Argentina,-41.33,-72.618,1974,95
+357091,Callaqui,Stratovolcano,1980,Chile,South America,Central Chile and Argentina,-37.92,-71.45,3164,96
+224010,Cameroon,Stratovolcano,2000,Cameroon,Africa and Red Sea,Africa (western),4.203,9.17,4095,97
+271080,Camiguin,Stratovolcano(es),1953,Philippines,Philippines and SE Asia,Mindanao,9.203,124.673,1552,98
+274010,Camiguin de Babuyanes,Stratovolcano,1857,Philippines,Philippines and SE Asia,North of Luzon,18.83,121.86,712,99
+211010,Campi Flegrei,Caldera,1538,Italy,Mediterranean and Western Asia,Italy,40.827,14.139,458,100
+211070,Campi Flegrei del Mar di Sicilia,Submarine,1867,Italy,Mediterranean and Western Asia,Italy,37.1,12.7,-8,101
+390100,Candlemas Island,Stratovolcano,1911,United Kingdom,Antarctica,Antarctica and South Sandwich Islands,-57.08,-26.67,550,102
+357140,Carran-Los Venados,Pyroclastic cone(s),1979,Chile,South America,Central Chile and Argentina,-40.35,-72.07,1114,103
+327110,Carrizozo,Pyroclastic cone(s),-3250,United States,Canada and Western USA,USA (New Mexico),33.78,-105.93,1731,104
+352006,Cayambe,Compound,1786,Ecuador,South America,Ecuador,0.029,-77.986,5790,105
+358012,Cayutue-La Vigueria,Pyroclastic cone(s),-190,Chile,South America,Southern Chile and Argentina,-41.25,-72.27,506,106
+341030,Ceboruco,Stratovolcano,1875,Mexico,México and Central America,Mexico,21.125,-104.508,2280,107
+263170,Cereme,Stratovolcano,1951,Indonesia,Indonesia,Java,-6.895,108.408,3039,108
+352022,Chacana,Caldera,1773,Ecuador,South America,Ecuador,-0.375,-78.25,4643,109
+290030,Chachadake [Tiatia],Stratovolcano,1981,Japan - administered by Russia,Kuril Islands,Kuril Islands,44.353,146.252,1822,110
+352002,Chachimbiro,Stratovolcano,-3740,Ecuador,South America,Ecuador,0.468,-78.287,4106,111
+210020,Chaine des Puys,Lava dome(s),-4040,France,Mediterranean and Western Asia,Western Europe,45.775,2.97,1464,112
+305060,Changbaishan,Stratovolcano,1903,China-North Korea,Kamchatka and Mainland Asia,China (eastern),41.98,128.08,2744,113
+300273,Cherpuk Group,Pyroclastic cone(s),-4550,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,55.55,157.47,1868,114
+341080,Chichinautzin,Volcanic field,400,Mexico,México and Central America,Mexico,19.08,-99.13,3930,115
+341120,Chichon/ El,Lava dome(s),1982,Mexico,México and Central America,Mexico,17.36,-93.228,1150,116
+312110,Chiginagak,Stratovolcano,1998,United States,Alaska,Alaska Peninsula,57.135,-156.99,2221,117
+290360,Chikurachki,Stratovolcano(es),2016,Russia,Kuril Islands,Kuril Islands,50.324,155.461,1781,118
+351110,Chiles-Cerro Negro,Stratovolcano,1936,Colombia-Ecuador,South America,Colombia,0.817,-77.938,4698,119
+357070,Chillan/ Nevados de,Stratovolcano,2020,Chile,South America,Central Chile and Argentina,-36.868,-71.378,3180,120
+290090,Chirippusan [Chirip],Stratovolcano(es),1860,Japan - administered by Russia,Kuril Islands,Kuril Islands,45.338,147.92,1587,121
+290150,Chirpoi,Caldera,2016,Russia,Kuril Islands,Kuril Islands,46.532,150.871,742,122
+283220,Chokaisan,Stratovolcano(es),1974,Japan,Japan/ Taiwan/ Marianas,Honshu,39.099,140.049,2236,123
+222130,Chyulu Hills,Volcanic field,1855,Kenya,Africa and Red Sea,Africa (eastern),-2.68,37.88,2188,124
+331030,Cleft Segment,Submarine,1986,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),44.83,-130.3,-2140,125
+331020,CoAxial Segment,Submarine,1993,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (northern),46.52,-129.58,-2400,126
+341096,Cofre de Perote,Shield(s),1150,Mexico,México and Central America,Mexico,19.492,-97.15,4282,127
+341040,Colima,Stratovolcano(es),2019,Mexico,México and Central America,Mexico,19.514,-103.62,3850,128
+344120,Concepcion,Stratovolcano,2011,Nicaragua,México and Central America,Nicaragua,11.538,-85.622,1700,129
+357090,Copahue,Stratovolcano,2019,Chile-Argentina,South America,Central Chile and Argentina,-37.856,-71.183,2953,130
+344010,Cosiguina,Stratovolcano,1859,Nicaragua,México and Central America,Nicaragua,12.98,-87.57,872,131
+352050,Cotopaxi,Stratovolcano,2016,Ecuador,South America,Ecuador,-0.677,-78.436,5911,132
+322160,Crater Lake,Caldera,-2850,United States,Canada and Western USA,USA (Oregon),42.93,-122.12,2487,133
+324020,Craters of the Moon,Pyroclastic cone(s),-130,United States,Canada and Western USA,USA (Idaho),43.42,-113.5,2005,134
+352003,Cuicocha,Caldera,650,Ecuador,South America,Ecuador,0.308,-78.364,3246,135
+351100,Cumbal,Stratovolcano,1926,Colombia,South America,Colombia,0.95,-77.87,4764,136
+341098,Cumbres/  Las,Stratovolcano,-3920,Mexico,México and Central America,Mexico,19.15,-97.27,3940,137
+221113,Dabbahu,Stratovolcano,2005,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,12.595,40.48,1401,138
+252040,Dakataua,Caldera,1895,Papua New Guinea,Melanesia and Australia,New Britain,-5.094,150.094,408,139
+221141,Dama Ali,Shield,1631,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,11.28,41.63,1068,140
+232010,Damavand,Stratovolcano,-5350,Iran,Middle East and Indian Ocean,Middle East (western),35.951,52.109,5670,141
+353030,Darwin,Shield,1813,Ecuador,South America,Galapagos Islands,-0.18,-91.28,1330,142
+322100,Davis Lake,Volcanic field,-2790,United States,Canada and Western USA,USA (Oregon),43.57,-121.82,2163,143
+253060,Dawson Strait Group,Volcanic field,1350,Papua New Guinea,Melanesia and Australia,New Guinea and D'Entrecasteaux Islands,-9.62,150.88,500,144
+390030,Deception Island,Caldera,1970,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-63.001,-60.652,602,145
+261230,Dempo,Stratovolcano(es),2017,Indonesia,Indonesia,Sumatra,-4.016,103.121,3142,146
+357050,Descabezado Grande,Stratovolcano(es),1933,Chile,South America,Central Chile and Argentina,-35.58,-70.75,3953,147
+231120,Dhamar/ Harras of,Volcanic field,1937,Yemen,Middle East and Indian Ocean,Middle East (southern),14.57,44.67,3500,148
+322170,Diamond Craters,Volcanic field,-5610,United States,Canada and Western USA,USA (Oregon),43.1,-118.75,1435,149
+263200,Dieng Volcanic Complex,Complex,2018,Indonesia,Indonesia,Java,-7.2,109.879,2565,150
+300022,Diky Greben,Lava dome(s),350,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.452,156.978,1040,151
+221100,Dubbi,Stratovolcano,1861,Eritrea,Africa and Red Sea,Africa (northeastern) and Red Sea,13.579,41.809,1625,152
+268010,Dukono,Complex,2020,Indonesia,Indonesia,Halmahera,1.693,127.894,1229,153
+290380,Ebeko,Stratovolcano,2020,Russia,Kuril Islands,Kuril Islands,50.686,156.014,1103,154
+353011,Ecuador,Shield,1150,Ecuador,South America,Galapagos Islands,-0.02,-91.546,790,155
+315040,Edgecumbe,Stratovolcano(es),-2220,United States,Alaska,Alaska (eastern),57.05,-135.75,970,156
+320060,Edziza,Stratovolcano,950,Canada,Canada and Western USA,Canada,57.72,-130.63,2786,157
+214010,Elbrus,Stratovolcano,50,Russia,Mediterranean and Western Asia,Western Asia,43.351,42.442,5642,158
+300590,Elovsky,Shield(s),-7550,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,57.55,160.53,1381,159
+222051,Emuruangogolak,Shield,1910,Kenya,Africa and Red Sea,Africa (eastern),1.5,36.33,1285,160
+331010,Endeavour Segment,Submarine,-3490,Canada,Hawaii and Pacific Ocean,Pacific Ocean (northern),47.95,-129.1,-2050,161
+257060,Epi,Stratovolcano(es),2004,Vanuatu,Melanesia and Australia,Vanuatu,-16.68,168.37,833,162
+213010,Erciyes Dagi,Stratovolcano,-6880,Turkey,Mediterranean and Western Asia,Turkey,38.531,35.447,3864,163
+390020,Erebus,Stratovolcano,2020,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-77.53,167.17,3794,164
+221080,Erta Ale,Shield,2020,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,13.6,40.67,613,165
+285011,Esan,Lava dome(s),1874,Japan,Japan/ Taiwan/ Marianas,Hokkaido,41.805,141.166,618,166
+211060,Etna,Stratovolcano(es),2020,Italy,Mediterranean and Western Asia,Italy,37.748,14.999,3295,167
+290050,Etorofu-Atosanupuri [Atosanupuri],Stratovolcano,1932,Japan - administered by Russia,Kuril Islands,Kuril Islands,44.808,147.131,1206,168
+290070,Etorofu-Yakeyama [Grozny Group],Complex(es),2013,Japan - administered by Russia,Kuril Islands,Kuril Islands,45.012,147.871,1158,169
+372020,Eyjafjallajokull,Stratovolcano,2010,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.633,-19.633,1651,170
+284140,Farallon de Pajaros,Stratovolcano,1967,United States,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,20.546,144.893,337,171
+382010,Fayal,Stratovolcano,1958,Portugal,Atlantic Ocean,Azores,38.6,-28.73,1043,172
+221190,Fentale,Stratovolcano,1820,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.975,39.93,2007,173
+311350,Fisher,Stratovolcano,1830,United States,Alaska,Aleutian Islands,54.65,-164.43,1112,174
+382001,Flores,Stratovolcano(es),-950,Portugal,Atlantic Ocean,Azores,39.462,-31.216,914,175
+384010,Fogo,Stratovolcano,2015,Cape Verde,Atlantic Ocean,Cape Verde Islands,14.95,-24.35,2829,176
+223001,Fort Portal,Tuff cone(s),-2120,Uganda,Africa and Red Sea,Africa (central),0.7,30.25,1615,177
+233020,Fournaise/ Piton de la,Shield,2020,France,Middle East and Indian Ocean,Indian Ocean (western),-21.244,55.708,2632,178
+373070,Fremrinamar,Stratovolcano,-1200,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),65.416,-16.666,970,179
+342090,Fuego,Stratovolcano(es),2020,Guatemala,México and Central America,Guatemala,14.473,-90.88,3763,180
+283030,Fujisan,Stratovolcano,1708,Japan,Japan/ Taiwan/ Marianas,Honshu,35.361,138.728,3776,181
+282091,Fukue,Shield(s),-400,Japan,Japan/ Taiwan/ Marianas,Ryukyu Islands and Kyushu,32.657,128.849,315,182
+382100,Furnas,Stratovolcano,1630,Portugal,Atlantic Ocean,Azores,37.77,-25.32,805,183
+334070,Galapagos Rift,Submarine,1996,Undersea Features,Hawaii and Pacific Ocean,Pacific Ocean (eastern),0.792,-86.15,-2430,184
+351080,Galeras,Complex,2014,Colombia,South America,Colombia,1.22,-77.37,4276,185
+263140,Galunggung,Stratovolcano,1984,Indonesia,Indonesia,Java,-7.25,108.058,2168,186
+268060,Gamalama,Stratovolcano(es),2018,Indonesia,Indonesia,Halmahera,0.8,127.33,1715,187
+300210,Gamchen,Complex,-550,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.974,160.703,2539,188
+268040,Gamkonora,Stratovolcano,2007,Indonesia,Indonesia,Halmahera,1.38,127.53,1635,189
+320200,Garibaldi,Stratovolcano,-8060,Canada,Canada and Western USA,Canada,49.85,-123.0,2678,190
+257020,Gaua,Stratovolcano,2011,Vanuatu,Melanesia and Australia,Vanuatu,-14.27,167.5,797,191
+263060,Gede-Pangrango,Stratovolcano(es),1957,Indonesia,Indonesia,Java,-6.77,106.965,3008,192
+214070,Ghegham Volcanic Ridge,Volcanic field,-1900,Armenia,Mediterranean and Western Asia,Western Asia,40.283,45.0,3597,193
+321020,Glacier Peak,Stratovolcano,1700,United States,Canada and Western USA,USA (Washington),48.112,-121.113,3213,194
+323170,Golden Trout Creek,Volcanic field,-5550,United States,Canada and Western USA,USA (California),36.358,-118.32,2886,195
+300070,Gorely,Caldera,2010,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.559,158.03,1799,196
+382040,Graciosa,Stratovolcano,-1950,Portugal,Atlantic Ocean,Azores,39.02,-27.97,402,197
+383040,Gran Canaria,Fissure vent(s),40,Spain,Atlantic Ocean,Canary Islands,28.0,-15.58,1950,198
+371060,Grimsnes,Crater rows,-3500,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),64.05,-20.883,200,199
+373010,Grimsvotn,Caldera,2011,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),64.416,-17.316,1719,200
+352020,Guagua Pichincha,Stratovolcano,2002,Ecuador,South America,Ecuador,-0.171,-78.598,4784,201
+263130,Guntur,Complex,1847,Indonesia,Indonesia,Java,-7.143,107.84,2249,202
+284050,Hachijojima,Stratovolcano(es),1606,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,33.137,139.766,854,203
+283250,Hachimantai,Stratovolcano,-5350,Japan,Japan/ Taiwan/ Marianas,Honshu,39.958,140.854,1613,204
+275001,Hainan Volcanic Field,Pyroclastic cone(s),1933,China,Philippines and SE Asia,Southeast Asia,19.905,110.229,196,205
+283280,Hakkodasan,Stratovolcano(es),1550,Japan,Japan/ Taiwan/ Marianas,Honshu,40.659,140.877,1585,206
+283020,Hakoneyama,Complex,2015,Japan,Japan/ Taiwan/ Marianas,Honshu,35.233,139.021,1438,207
+283050,Hakusan,Stratovolcano,1659,Japan,Japan/ Taiwan/ Marianas,Honshu,36.155,136.771,2702,208
+332060,Haleakala,Shield,1750,United States,Hawaii and Pacific Ocean,Hawaiian Islands,20.708,-156.25,3055,209
+306040,Halla,Shield,1007,South Korea,Kamchatka and Mainland Asia,Korea,33.361,126.53,1919,210
+252100,Hargy,Stratovolcano,950,Papua New Guinea,Melanesia and Australia,New Britain,-5.33,151.1,1148,211
+231001,Harrat Ash Shamah,Volcanic field,1850,Syria-Jordan-Saudi Arabia,Middle East and Indian Ocean,Middle East (western),32.333,37.583,1100,212
+283122,Harunasan,Stratovolcano,550,Japan,Japan/ Taiwan/ Marianas,Honshu,36.477,138.851,1449,213
+231110,Haylan/ Jabal,Volcanic field,-1200,Yemen,Middle East and Indian Ocean,Middle East (southern),15.4,45.1,1550,214
+241140,Healy,Submarine,1360,New Zealand,New Zealand to Fiji,New Zealand,-35.004,178.973,-980,215
+234010,Heard,Stratovolcano,2020,Australia,Middle East and Indian Ocean,Indian Ocean (southern),-53.106,73.513,2745,216
+372070,Hekla,Stratovolcano,2000,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.983,-19.666,1490,217
+324040,Hell's Half Acre,Shield,-3250,United States,Canada and Western USA,USA (Idaho),43.5,-112.45,1631,218
+371050,Hengill,Crater rows,150,Iceland,Iceland and Arctic Ocean,Iceland (southwestern),64.083,-21.416,803,219
+383020,Hierro,Shield,2012,Spain,Atlantic Ocean,Canary Islands,27.73,-18.03,1500,220
+283131,Hiuchigatake,Stratovolcano,1544,Japan,Japan/ Taiwan/ Marianas,Honshu,36.955,139.285,2356,221
+285020,Hokkaido-Komagatake,Stratovolcano,2000,Japan,Japan/ Taiwan/ Marianas,Hokkaido,42.063,140.677,1131,222
+322010,Hood,Stratovolcano,1866,United States,Canada and Western USA,USA (Oregon),45.374,-121.695,3426,223
+320080,Hoodoo Mountain,Subglacial,-7050,Canada,Canada and Western USA,Canada,56.78,-131.28,1850,224
+332040,Hualalai,Shield,1801,United States,Hawaii and Pacific Ocean,Hawaiian Islands,19.692,-155.87,2523,225
+354005,Huambo,Volcanic field,-700,Peru,South America,Peru,-15.83,-72.13,4550,226
+357123,Huanquihue Group,Stratovolcano(es),1750,Argentina,South America,Central Chile and Argentina,-39.887,-71.58,2189,227
+354030,Huaynaputina,Stratovolcano,1600,Peru,South America,Peru,-16.608,-70.85,4850,228
+390028,Hudson Mountains,Stratovolcano(es),-210,Antarctica,Antarctica,Antarctica and South Sandwich Islands,-74.33,-99.42,749,229
+358057,Hudson/ Cerro,Stratovolcano,2011,Chile,South America,Southern Chile and Argentina,-45.9,-72.97,1905,230
+358030,Huequi,Lava dome(s),1920,Chile,South America,Southern Chile and Argentina,-42.377,-72.578,1318,231
+341093,Humeros/ Los,Caldera(s),-4470,Mexico,México and Central America,Mexico,19.68,-97.45,3150,232
+268030,Ibu,Stratovolcano,2020,Indonesia,Indonesia,Halmahera,1.488,127.63,1325,233
+222161,Igwisi Hills,Pyroclastic cone(s),-10450,Tanzania,Africa and Red Sea,Africa (eastern),-4.889,31.933,1146,234
+263350,Ijen,Stratovolcano(es),1999,Indonesia,Indonesia,Java,-8.058,114.242,2769,235
+313020,Iliamna,Stratovolcano,1876,United States,Alaska,Alaska (southwestern),60.032,-153.09,3053,236
+264220,Iliboleng,Stratovolcano,1993,Indonesia,Indonesia,Lesser Sunda Islands,-8.342,123.258,1659,237
+264250,Iliwerung,Complex,2013,Indonesia,Indonesia,Lesser Sunda Islands,-8.53,123.57,1018,238
+343060,Ilopango,Caldera,1880,El Salvador,México and Central America,El Salvador and Honduras,13.672,-89.053,450,239
+352004,Imbabura,Compound,-5550,Ecuador,South America,Ecuador,0.258,-78.183,4609,240
+314060,Imuruk Lake,Shield(s),300,United States,Alaska,Alaska (western),65.517,-163.45,610,241
+321070,Indian Heaven,Shield(s),-6250,United States,Canada and Western USA,USA (Washington),45.93,-121.82,1806,242
+357041,Infiernillo,Volcanic field,-6890,Argentina,South America,Central Chile and Argentina,-35.123,-69.9,3007,243
+264090,Inielika,Complex,2001,Indonesia,Indonesia,Lesser Sunda Islands,-8.73,120.98,1559,244
+264080,Inierie,Stratovolcano,-8050,Indonesia,Indonesia,Lesser Sunda Islands,-8.875,120.95,2245,245
+284120,Ioto,Caldera,2012,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,24.751,141.289,169,246
+282020,Io-Torishima,Complex,1968,Japan,Japan/ Taiwan/ Marianas,Ryukyu Islands and Kyushu,27.881,128.223,212,247
+345060,Irazu,Stratovolcano,1994,Costa Rica,México and Central America,Costa Rica,9.979,-83.852,3432,248
+273042,Isarog,Stratovolcano,-3500,Philippines,Philippines and SE Asia,Luzon,13.658,123.38,1966,249
+211030,Ischia,Complex,1302,Italy,Mediterranean and Western Asia,Italy,40.73,13.897,789,250
+320090,Iskut-Unuk River Cones,Pyroclastic cone(s),1800,Canada,Canada and Western USA,Canada,56.58,-130.55,1880,251
+233014,Itasy Volcanic Field,Pyroclastic cone(s),-6050,Madagascar,Middle East and Indian Ocean,Indian Ocean (western),-19.033,46.7,1800,252
+283270,Iwakisan,Stratovolcano,1863,Japan,Japan/ Taiwan/ Marianas,Honshu,40.656,140.303,1625,253
+283240,Iwatesan,Complex,1919,Japan,Japan/ Taiwan/ Marianas,Honshu,39.853,141.001,2038,254
+264110,Iya,Stratovolcano,1969,Indonesia,Indonesia,Lesser Sunda Islands,-8.891,121.641,618,255
+284010,Izu-Oshima,Stratovolcano,1990,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,34.724,139.394,758,256
+283010,Izu-Tobu,Pyroclastic cone(s),1989,Japan,Japan/ Taiwan/ Marianas,Honshu,34.9,139.098,1406,257
+284090,Izu-Torishima,Stratovolcano,2002,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,30.484,140.303,394,258
+376010,Jan Mayen,Stratovolcano,1985,Norway,Iceland and Arctic Ocean,Atlantic Ocean (Jan Mayen),71.082,-8.155,2197,259
+322020,Jefferson,Stratovolcano,950,United States,Canada and Western USA,USA (Oregon),44.674,-121.8,3199,260
+305040,Jingbo,Volcanic field,-520,China,Kamchatka and Mainland Asia,China (eastern),44.08,128.83,1000,261
+302060,Jom-Bolok,Volcanic field,-5180,Russia,Kamchatka and Mainland Asia,Russia (southeastern),52.713,99.021,2047,262
+322190,Jordan Craters,Volcanic field,-1250,United States,Canada and Western USA,USA (Oregon),43.147,-117.46,1473,263
+261220,Kaba,Stratovolcano,2000,Indonesia,Indonesia,Sumatra,-3.522,102.615,1940,264
+241010,Kaikohe-Bay of Islands,Volcanic field,400,New Zealand,New Zealand to Fiji,New Zealand,-35.3,173.9,388,265
+284100,Kaitoku Seamount,Submarine,1984,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,26.127,141.102,-95,266
+311110,Kanaga,Stratovolcano,2012,United States,Alaska,Aleutian Islands,51.923,-177.168,1307,267
+272020,Kanlaon,Stratovolcano,2017,Philippines,Philippines and SE Asia,Central Philippines,10.412,123.132,2435,268
+223040,Karisimbi,Stratovolcano,-8050,DR Congo-Rwanda,Africa and Red Sea,Africa (central),-1.506,29.45,4490,269
+251030,Karkar,Stratovolcano,2014,Papua New Guinea,Melanesia and Australia,Northeast of New Guinea,-4.649,145.964,1839,270
+233010,Karthala,Shield,2007,Comoros,Middle East and Indian Ocean,Indian Ocean (western),-11.75,43.38,2361,271
+300130,Karymsky,Stratovolcano,2019,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.049,159.443,1513,272
+372030,Katla,Subglacial,1918,Iceland,Iceland and Arctic Ocean,Iceland (southern),63.633,-19.083,1490,273
+312170,Katmai,Stratovolcano,1912,United States,Alaska,Alaska Peninsula,58.28,-154.963,2047,274
+214020,Kazbek,Stratovolcano,-750,Georgia,Mediterranean and Western Asia,Western Asia,42.7,44.5,5050,275
+264140,Kelimutu,Complex,1968,Indonesia,Indonesia,Lesser Sunda Islands,-8.77,121.82,1639,276
+263280,Kelut,Stratovolcano,2014,Indonesia,Indonesia,Java,-7.93,112.308,1731,277
+261170,Kerinci,Stratovolcano,2020,Indonesia,Indonesia,Sumatra,-1.697,101.264,3800,278
+290200,Ketoi,Stratovolcano,1960,Russia,Kuril Islands,Kuril Islands,47.35,152.475,1172,279
+290300,Kharimkotan,Stratovolcano,1933,Russia,Kuril Islands,Kuril Islands,49.12,154.508,1145,280
+231060,Khaybar/ Harrat,Volcanic field,650,Saudi Arabia,Middle East and Indian Ocean,Middle East (southern),25.0,39.92,2093,281
+300053,Khodutka,Stratovolcano(es),-300,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,52.062,157.711,2039,282
+360160,Kick 'em Jenny,Submarine,2017,Grenada,West Indies,West Indies,12.3,-61.64,-185,283
+282060,Kikai,Caldera,2020,Japan,Japan/ Taiwan/ Marianas,Ryukyu Islands and Kyushu,30.793,130.305,704,284
+300180,Kikhpinych,Stratovolcano(es),1550,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.489,160.251,1506,285
+332010,Kilauea,Shield,2018,United States,Hawaii and Pacific Ocean,Hawaiian Islands,19.421,-155.287,1222,286
+282090,Kirishimayama,Shield,2018,Japan,Japan/ Taiwan/ Marianas,Ryukyu Islands and Kyushu,31.934,130.862,1700,287
+284110,Kita-Ioto,Stratovolcano,1945,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,25.424,141.284,792,288
+300260,Klyuchevskoy,Stratovolcano,2020,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,56.056,160.642,4754,289
+290120,Kolokol Group,Stratovolcano,1973,Russia,Kuril Islands,Kuril Islands,46.042,150.083,1328,290
+221200,Kone,Caldera(s),1820,Ethiopia,Africa and Red Sea,Africa (northeastern) and Red Sea,8.788,39.701,1380,291
+311161,Korovin,Stratovolcano(es),2007,United States,Alaska,Aleutian Islands,52.381,-174.166,1518,292
+300020,Koshelev,Stratovolcano,1690,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,51.356,156.753,1822,293
+300122,Kostakan,Pyroclastic cone(s),1350,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,53.83,158.05,1150,294
+284030,Kozushima,Lava dome(s),838,Japan,Japan/ Taiwan/ Marianas,Izu/ Volcano/ and Mariana Islands,34.219,139.153,572,295
+373080,Krafla,Caldera,1984,Iceland,Iceland and Arctic Ocean,Iceland (northeastern),65.715,-16.728,800,296
+262000,Krakatau,Caldera,2020,Indonesia,Indonesia,Krakatau,-6.102,105.423,155,297
+300190,Krasheninnikov,Caldera,1550,Russia,Kamchatka and Mainland Asia,Kamchatka Peninsula,54.596,160.27,1816,298
+252070,Krummel-Garbuna-Welcker,Stratovolcano(es),2008,Papua New Guinea,Melanesia and Australia,New Britain,-5.416,150.027,564,299
