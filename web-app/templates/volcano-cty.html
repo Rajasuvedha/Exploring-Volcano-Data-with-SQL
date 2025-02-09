@@ -1,0 +1,60 @@
+<html lang="en">
+
+<head>
+    <style>
+        /* CSS for navigation bar */
+        ul {
+            list-style-type: none;
+            margin: 10;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 8px 10px;
+            text-decoration: none;
+        }
+
+        li a:hover:not(.active) {
+            background-color: #111;
+        }
+    </style>
+
+    <title>Volcano by Country</title>
+</head>
+
+<body>
+
+    <!-- Navigation bar -->
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/volcano-cty">Volcano by country</a></li>
+        <li><a href="/volcano-type">Volcano by type</a></li>
+        <li><a href="/volcano-year">Recently active volcano</a></li>
+    </ul>
+    
+    <table>
+        {{#data}}
+        <tr>
+            <th>Name</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>{{volcano_name}}</td>
+            <td>{{country_name}}</td>
+        </tr>
+        {{/data}}
+    
+    </table>
+
+</body>
+
+</html>
